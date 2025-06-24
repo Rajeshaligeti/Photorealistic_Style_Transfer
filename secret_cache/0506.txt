@@ -1,0 +1,49 @@
+photorealistic-style-transfer/
+├── app.py                    # Streamlit main app (UI + logic calls)
+├── style_transfer/
+│   ├── __init__.py
+│   ├── model.py              # VGG19 model, style/content loss, optimizer
+│   ├── utils.py              # Image loading, preprocessing, postprocessing
+│   └── filters.py            # Optional filters (sharpen, blur, etc.)
+├── assets/
+│   ├── sample_content.jpg
+│   └── sample_style.jpg
+├── outputs/                  # Stylized output images (auto-generated)
+├── requirements.txt          # All dependencies
+├── README.md                 # Project overview
+├── .gitignore                # Ignore virtualenv, __pycache__, etc.
+└── config.py                 # Configs (e.g., loss weights, style intensity)
+
+app.py: Your Streamlit UI — uploads, sliders, and output display.
+
+style_transfer/model.py: Core NST logic with VGG19, total variation loss, and optimizer.
+
+style_transfer/utils.py: Preprocessing, image loading/saving, tensor conversions.
+
+style_transfer/filters.py: Post-processing utilities (optional Gaussian/median/sharpen filters).
+
+config.py: Central place to tweak loss weights like α, β, style strength, etc.
+
+requirements.txt: Contains things like streamlit, torch, Pillow, etc.
+
+outputs/: You can auto-save stylized images here using times.
+
+====================================================================================================================================================================
+
+====================================================================================================================================================================
+
+I am very fond of writing this but...  You may find this message or not in this profile.
+In an old fashioned way i have to do my due deligence...... If you are reading this then you have already come a long way and i appreciate your growth
+The main purpose of creating this folder was to store the results after they have been creating but later there wasn't a use for that.
+I am transferring the ownership to you because you deserve it for keeping up with my unorganised mental schema or me. 
+For me you were a bliss of wind in a rainy monsoon afternoon.Yeah i made that up. Your eyes chico they never lie. For once i felt lively and i really adore the time spent with you
+I may never be this close again. The day i saw you was memorable and i still cherish you in my mind and heart.
+I am greatful for the time we had together and thank you for everything and much more.
+The person that i hinted all the way is none other than you
+There are a million unsaid things that have voided and destiny shall decide and keeping this message half filled and not complete
+You are comprehensive enough to get the message that and i will be with you whenever you need my help. I depart for now
+All and all i respect once secretavity and confidentiality and expect the same 
+
+======================================================================================================================================================================
+
+======================================================================================================================================================================I LOVEed YOU=====================================================================================================================================================
