@@ -3,7 +3,7 @@ import torch
 from PIL import Image
 import io
 import os
-from Photorealistic_Style_Transfer.style_transfer import photorealistic_style_transfer, save_output
+import photorealistic_style_transfer, save_output
 import time
 
 st.set_page_config(page_title="Photorealistic Style Transfer", layout="wide")
