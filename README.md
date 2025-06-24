@@ -2,8 +2,15 @@
 
 A high-quality neural style transfer implementation optimized for M2 Macs, producing photorealistic results while maintaining the content's structure and the style's characteristics.
 
-
+The Colab Version or the Jupyter Notebook version is implemented in the  [IPYNB](Minor_Project(3).ipynb)  file
 ## Website:  [Style Transfer App](https://photorealisticstyletransfer.streamlit.app)
+--
+![Image](https://github.com/user-attachments/assets/8b46e79c-c00c-4aa2-bdc7-7ab06f914bf0)
+![Image](https://github.com/user-attachments/assets/e750f8fd-5953-4f97-9db6-1c9fa8c8c605)
+
+https://github.com/user-attachments/assets/972b4406-7088-4870-95a7-5e381b0c660b
+
+--
 ## Features
 
 - Optimized for M2 Macs using Metal Performance Shaders (MPS)
