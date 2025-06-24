@@ -1,4 +1,4 @@
-# Photorealistic Style Transfer
+# Photorealistic Style Transfer 🖼️📸
 
 A high-quality neural style transfer implementation optimized for M2 Macs, producing photorealistic results while maintaining the content's structure and the style's characteristics.
 
