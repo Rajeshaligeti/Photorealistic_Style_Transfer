@@ -2,8 +2,8 @@ import streamlit as st
 import torch
 from PIL import Image
 import io
-import os
-import photorealistic_style_transfer, save_output
+import os  
+from style_transfer import photorealistic_style_transfer, save_output
 import time
 
 st.set_page_config(page_title="Photorealistic Style Transfer", layout="wide")
