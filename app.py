@@ -2,7 +2,7 @@ import streamlit as st
 import torch
 from PIL import Image
 import io
-import os  
+import os
 from style_transfer import photorealistic_style_transfer, save_output
 import time
 
